@@ -1,2 +1,1 @@
-# CoinTestnetSDKFrameworkUltra
-Advanced CoinTestnetSDKFrameworkUltra project
+.
